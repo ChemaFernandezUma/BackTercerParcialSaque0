@@ -1,0 +1,93 @@
+[
+    {
+      "nombre": "Concierto en Vivo",
+      "timestamp": "2024-01-15T18:00:00Z",
+      "lugar": "Teatro Principal",
+      "lat": 40.4168,
+      "lon": -3.7038,
+      "organizador": "organizador1@example.com",
+      "imagen": "https://ejemplo.com/concierto.jpg"
+    },
+    {
+      "nombre": "Feria de Arte",
+      "timestamp": "2024-02-01T12:00:00Z",
+      "lugar": "Galería de Arte Moderno",
+      "lat": 40.4169,
+      "lon": -3.7039,
+      "organizador": "organizador2@example.com",
+      "imagen": "https://ejemplo.com/feria_arte.jpg"
+    },
+    {
+      "nombre": "Carrera Benéfica",
+      "timestamp": "2024-03-10T09:30:00Z",
+      "lugar": "Parque Central",
+      "lat": 40.4167,
+      "lon": -3.7037,
+      "organizador": "organizador3@example.com",
+      "imagen": "https://ejemplo.com/carrera_benefica.jpg"
+    },
+    {
+      "nombre": "Taller de Cocina",
+      "timestamp": "2024-04-05T16:00:00Z",
+      "lugar": "Escuela de Cocina",
+      "lat": 40.4166,
+      "lon": -3.7036,
+      "organizador": "organizador4@example.com",
+      "imagen": "https://ejemplo.com/taller_cocina.jpg"
+    },
+    {
+      "nombre": "Exposición de Fotografía",
+      "timestamp": "2024-05-20T14:00:00Z",
+      "lugar": "Galería Fotográfica",
+      "lat": 40.4170,
+      "lon": -3.7040,
+      "organizador": "organizador5@example.com",
+      "imagen": "https://ejemplo.com/exposicion_fotografia.jpg"
+    },
+    {
+      "nombre": "Conferencia Tech Summit",
+      "timestamp": "2024-06-08T10:00:00Z",
+      "lugar": "Centro de Convenciones",
+      "lat": 40.4165,
+      "lon": -3.7035,
+      "organizador": "organizador6@example.com",
+      "imagen": "https://ejemplo.com/conferencia_tech_summit.jpg"
+    },
+    {
+      "nombre": "Festival de Cine",
+      "timestamp": "2024-07-15T19:30:00Z",
+      "lugar": "Cine Plaza",
+      "lat": 40.4171,
+      "lon": -3.7041,
+      "organizador": "organizador7@example.com",
+      "imagen": "https://ejemplo.com/festival_cine.jpg"
+    },
+    {
+      "nombre": "Torneo de Ajedrez",
+      "timestamp": "2024-08-02T15:00:00Z",
+      "lugar": "Club de Ajedrez",
+      "lat": 40.4164,
+      "lon": -3.7034,
+      "organizador": "organizador8@example.com",
+      "imagen": "https://ejemplo.com/torneo_ajedrez.jpg"
+    },
+    {
+      "nombre": "Fiesta de Halloween",
+      "timestamp": "2024-10-31T20:00:00Z",
+      "lugar": "Salón de Eventos",
+      "lat": 40.4172,
+      "lon": -3.7042,
+      "organizador": "organizador9@example.com",
+      "imagen": "https://ejemplo.com/fiesta_halloween.jpg"
+    },
+    {
+      "nombre": "Mercado de Navidad",
+      "timestamp": "2024-12-10T11:00:00Z",
+      "lugar": "Plaza Mayor",
+      "lat": 40.4163,
+      "lon": -3.7033,
+      "organizador": "organizador10@example.com",
+      "imagen": "https://ejemplo.com/mercado_navidad.jpg"
+    }
+  ]
+  

@@ -33,7 +33,7 @@ const eventoSchema = new mongoose.Schema({
     },
     imagen: {
         type: String,
-        required: true
+        required: false
     }
 });
 
